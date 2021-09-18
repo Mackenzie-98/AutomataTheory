@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=LastState(char)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=s
+comment2.target=void\ setState(char)
+comment3.params=
+comment3.target=char\ getState()
+numComments=4

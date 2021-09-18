@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=health\ score\ state
+comment0.target=Level1(int,\ int,\ char)
+numComments=1
